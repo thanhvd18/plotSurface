@@ -1,4 +1,3 @@
-**# Plot brain surface
 # Plot Brain Surface
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
@@ -21,7 +20,7 @@
    - Supported formats: `.mat` file or `.csv` file.
    - Ensure the file contains a 200-element vector of weights corresponding to the regions in the Schaefer atlas.
 
-2. Run script main.m[README.md](README.md)
+2. Run script main.m
 
 
 ## Acknowledgements
